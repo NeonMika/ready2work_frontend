@@ -1,7 +1,3 @@
-Here's a concise **README.md** file for your GitHub repository. It provides an overview of your API, installation steps, and usage instructions. 
-
----
-
 # **Ready2Work API** 🚀
 
 A backend API for **Ready2Work**, a platform connecting developers and companies through user profiles, projects, and task management.
